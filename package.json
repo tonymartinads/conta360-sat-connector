@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@nodecfdi/sat-ws-descarga-masiva": "2.0.0",
-    "@nodecfdi/credentials": "2.2.1",
+    "@nodecfdi/credentials": "3.2.0",
     "express": "4.21.0"
   },
   "engines": {
